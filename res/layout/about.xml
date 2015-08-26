@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="250dp" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="200dp"
+            android:layout_height="250dp"
+            android:text="Hey guys, as it is my 1st android app so I&apos;m kinda an &apos;Android Developer&apos; now :p I don&apos;t want to bore you guys by writing an essay here. I just want to introduce myself. Here it goes...
+        \n\n     My name is Aakash Prakash. Yeah i know my name is rhyming. I&apos;ve heard this from people when they got to know my name so let&apos;s leave it here and come back to introducing. I&apos;ve done my schooling from St. Clare&apos;s Sr. Sec. School, Agra. I know what its like to come to the same school everyday for 14 years, its kinda boring seeing the same school everday :D I&apos;m currently pursuing my B.Tech from one of the prestigious colleges of India and that is Maulana Azad National Institute Of Technology, Bhopal. I&apos;ve just completed my 1st year and don&apos;t get tied up in knots I&apos;ve NOT learnt any of this in my college, I&apos;ve learnt it purely from the Internet and among those popular websites are &apos;newboston&apos; for learning any programming language , &apos;github&apos; for source code, &apos;slidenerd&apos; which is one of the best channels on youtube for learning android programming and if you have any problems regarding any language you can always search it on google and the best answer is always of &apos;stackoverflow&apos;. The app which I used is Eclipse for Windows as it is easy to configure and use. If you have any suggestions regarding this app you are always welcomed. My email id is &apos;aakashprakash74@gmail.com&apos; and please don&apos;t forget to rate this app :p This app took me around two months so I hope you guys especially the ones who are big fans of DBZ would love and enjoy this app :)" />
+    </ScrollView>
+
+</LinearLayout>

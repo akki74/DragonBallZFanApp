@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DBZ Fan App</string>
+    <string name="app_activity">Home</string>
+    <string name="action_settings">Exit</string>
+    <string name="title_activity_fragment_navigation_drawer">MainActivity</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="action_example">Example action</string>
+    <string name="Navigate">Navigation Drawer</string>
+
+    <string-array name="grid">
+        <item>Intro Song</item>
+        <item>Dragon Ball</item>
+        <item>DragonBall Z</item>
+        <item>DragonBall GT</item>
+        <item>Movies</item>
+        <item>End Song</item>
+    </string-array>
+</resources>
